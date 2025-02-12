@@ -1,7 +1,7 @@
 # Hi 👋, I'm Yi-Heng, Lo  
 
 ## About Me  
-I am passionate about signal processing and system programming.
+I am passionate about signal processing and system programming.  
 I have experience in communication system algorithms and computation, and I enjoy solving complex problems with efficient and scalable solutions.
 
 📫 How to reach me: Peter060613@gmail.com  
